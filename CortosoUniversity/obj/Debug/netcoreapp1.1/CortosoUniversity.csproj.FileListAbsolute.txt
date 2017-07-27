@@ -1,0 +1,9 @@
+C:\src\CortosoUniversity\CortosoUniversity\bin\Debug\netcoreapp1.1\CortosoUniversity.deps.json
+C:\src\CortosoUniversity\CortosoUniversity\bin\Debug\netcoreapp1.1\CortosoUniversity.runtimeconfig.json
+C:\src\CortosoUniversity\CortosoUniversity\bin\Debug\netcoreapp1.1\CortosoUniversity.runtimeconfig.dev.json
+C:\src\CortosoUniversity\CortosoUniversity\bin\Debug\netcoreapp1.1\CortosoUniversity.dll
+C:\src\CortosoUniversity\CortosoUniversity\bin\Debug\netcoreapp1.1\CortosoUniversity.pdb
+C:\src\CortosoUniversity\CortosoUniversity\obj\Debug\netcoreapp1.1\CortosoUniversity.csprojResolveAssemblyReference.cache
+C:\src\CortosoUniversity\CortosoUniversity\obj\Debug\netcoreapp1.1\CortosoUniversity.AssemblyInfo.cs
+C:\src\CortosoUniversity\CortosoUniversity\obj\Debug\netcoreapp1.1\CortosoUniversity.dll
+C:\src\CortosoUniversity\CortosoUniversity\obj\Debug\netcoreapp1.1\CortosoUniversity.pdb
